@@ -42,15 +42,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Information Technology Services",
+      "position": "Student Data Center Tech 1 Trainee",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2025-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Conducts checks, audits, and maintenance on UHM Information and Technology Services Data Centers and UH networks.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Training to support data centers on campus and network operations by running patches, server maintenance, conducting audits, and more. "
       ]
     },
     {
@@ -95,8 +94,8 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Hawaii B+ Scholarship",
+      "date": "2024-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
@@ -109,7 +108,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Noa Lincoln, Primary Investigator of the Indigenous Cropping Systems Laboratory, nlincoln@hawaii.edu, (808) 217-7710"
     }
   ]
 }
