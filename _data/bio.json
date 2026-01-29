@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "isabellamow", "url": "http://github.com/isabellamow" },
-      { "network": "linkedin", "username": "Isabella Mow", "url": "www.linkedin.com/in/isabella-mow-8107a3348" }
+      { "network": "linkedin", "username": "Isabella Mow", "url": "https://www.linkedin.com/in/isabella-mow-8107a3348/" }
       
     ]
   },
