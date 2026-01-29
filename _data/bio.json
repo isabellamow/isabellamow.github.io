@@ -9,23 +9,20 @@
     "summary": "I am studying for a B.S. in engineering from the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2029.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "isabellamow", "url": "http://github.com/isabellamow" },
+      { "network": "linkedin", "username": "Isabella Mow", "url": "www.linkedin.com/in/isabella-mow-8107a3348" }
+      
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "UX/UI" },
+    { "name": "Artificial Intelligence" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
