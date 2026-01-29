@@ -53,29 +53,39 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Research Corporation of the University of Hawaii",
+      "position": " Telehealth Navigator",
+      "website": " ",
+      "startDate": "2024-08",
+      "endDate": "2025-04",
+      "summary": "Part time job at Kalihi Palama Public Library serving the public under the Department of Health.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Facilitated library users to find, schedule, and do telehealth visits. Collected evaluation data/feedback from users and staff for project activities."
+      ]
+    }, 
+    {
+      "company": "Research Corporation of the University of Hawaii",
+      "position": "Tissue Culture Lab Assistant",
+      "website": " ",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "Full time job at Komohana Research Center under UH Manoa College of Tropical Agriculture and Human Resources (CTAHR)", "Summer 2025 Volunteer",
+      "highlights": [
+        "Propagated ulu & banana species, made media, cleaned flasks, maintained cleanliness of lab, wrote progress reports for grants."
       ]
     }
   ],
-  "volunteer": [
+  "Internships": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "University of Hawaii at Hilo",
+      "website": " ",
+      "position": "Data Science and Artificial Intelligence Intern",
+      "startDate": "2023-09",
+      "endDate": "2024-05",
+      "summary": "Worked to identify novel diffusion model interpolator for land usage on Hawaii Island.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Used a pre-trained model with a mask feature that was adapted to infill unknown data points with the goal of matching the ground truth image.",
+        "The goal of the project was to create an  accurate graph with a level of uncertainty that simulates climate scientists going to an area and identifying its landscapes to reduce resources and cost."
       ]
     },
     {
