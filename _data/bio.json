@@ -87,21 +87,23 @@
         "Used a pre-trained model with a mask feature that was adapted to infill unknown data points with the goal of matching the ground truth image.",
         "The goal of the project was to create an  accurate graph with a level of uncertainty that simulates climate scientists going to an area and identifying its landscapes to reduce resources and cost."
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
+  "volunteering": [
+  {
+      "organization": "Hawaii International Science Experience",
+      "website": "https://hise.world/",
+      "position": "Co-founder, Program Lead",
+      "startDate": "2024-03",
+      "endDate": "Present",
+      "summary": "Non-profit program designed to provide local students an international experience by hosting a four day camp showcasing STEM resources across Hawaii Island to international schools.",
+      "highlights": [
+        "Helped commit 25k+ to funding by presenting to potential donors.", 
+        "Assisted in planning program activities and logistics. "
+      ]
+    }
+  ], 
+  
   "awards": [
     {
       "title": "Hawaii B+ Scholarship",
