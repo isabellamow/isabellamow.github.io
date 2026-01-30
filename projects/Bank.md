@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Bank/Screenshot 2026-01-29 214718.png
+image: img/Screenshot 2026-01-29 214718.png
 title: "Bank"
 date: 2025
 published: true
