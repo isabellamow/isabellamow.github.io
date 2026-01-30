@@ -7,6 +7,8 @@ date: 2025
 published: true
 labels:
   - C++
+  - terminal
+  - database management
 summary: "A banking system written in C++ that helps you create, print, find, and delete records."
 ---
 
