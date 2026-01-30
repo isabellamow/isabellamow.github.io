@@ -8,8 +8,8 @@ published: true
 labels:
   - C++
   - C
-  - terminal
-  - database management
+  - Terminal
+  - Database Management
 summary: "A banking system written in C++ that helps you create, print, find, and delete records."
 ---
 
