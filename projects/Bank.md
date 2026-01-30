@@ -7,7 +7,7 @@ date: 2025
 published: true
 labels:
   - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "A banking system written in C++ that helps you create, print, find, and delete records."
 ---
 
 <div class="text-center p-4">
@@ -16,11 +16,13 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+At UH Manoa, ICS 212: Program Structure requires two big projects. A banking project completed in C and C++, both written using terminal. This means learning how to compile, link, and run programs directly from the command line. This added an extra element of complexity to this project as learning how to use the terminal tends to have a learning curve. In 212, we also made use of Makefiles, which automated builds. This helped me to gain a better understanding of the software build process. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This command-line banking system allows users to manage their accounts. This includes the creation of new accounts, searching records, deleting records, and finding specific records. Some of the core features is its ability to save data to a file and load in data from a file when the program starts. The system stores the account records using dynamic data structure.  
 
-Here is some code that illustrates how we read values from the line sensors:
+This project makes use of modular program design, meaning that the user interface and database are separate. It uses pointers and dynamic memory allocation. This is why the debug mode is helpful in addition to the release mode. In this project, I learned how to manually manage memory in C and C++. I also learned how to design a simple database system. In the future, security measures such as a password and a more developed user interface could improve it.
+
+Here is some code that illustrates how I went about creating the user interface:
 
 ```cpp
 byte ADCRead(byte ch)
@@ -34,4 +36,3 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
