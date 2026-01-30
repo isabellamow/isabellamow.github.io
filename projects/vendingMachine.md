@@ -20,7 +20,7 @@ At Leeward Community College, ICS 211: Computer Science II has students complete
 
 The vending machine project helped me learn how to program to an interface and the distinction between what a node does and how it performs. Becuase this project included custom error handling, input validation, and encpasulation, I was able to build foundational computer science skills and practice real world system modeling.
 
-Here is some code that illustrates how I went about creating the user interface:
+Here is some code that illustrates how I went about creating the object construction and validation logic:
 
 ```cpp
 //private class variables
