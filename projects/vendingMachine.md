@@ -9,7 +9,7 @@ labels:
   - Java
   - Data Structures
   - Object-Oriented Programming
-summary: "A banking system written in C++ that helps you create, print, find, and delete records."
+summary: "A vending machine system written in Java that helps you add, find and print snacks."
 ---
 
 <div class="text-center p-4">
