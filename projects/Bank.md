@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Bank/Screenshot 2026-01-29 214718.png
 title: "Bank"
 date: 2025
 published: true
