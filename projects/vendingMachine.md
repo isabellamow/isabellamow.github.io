@@ -6,7 +6,9 @@ title: "vendingMachine"
 date: 2024
 published: true
 labels:
-  - Javascript
+  - Java
+  - Data Structures
+  - Object-Oriented Programming
 summary: "A banking system written in C++ that helps you create, print, find, and delete records."
 ---
 
