@@ -19,7 +19,10 @@ The first time that I had heard of TypeScript was in ICS 314. It was an intrigui
 
 I think that it is useful, and I can see why it is highly regarded in software engineering spaces. It mitigates problems in advance, which can save a lot of time and improve your code. From my experience in ICS 314 so far, I am finding TypeScript to be a good programming language from a software engineering perspective. 
 
+
+
 ## Working out Everyday to become an Athletic Software Engineer and doing the workout of the day to master Athletic Software Engineering
+
 
 Athletic Software Engineering is a pedagogical approach that treats learning new skills like athletic training. Repetition, speed, and consistency are key parts of Athletic Software Engineering and WODs (Workout of the Day). 
 
