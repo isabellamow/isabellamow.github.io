@@ -2,14 +2,11 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Bank"
-date: 2025
+title: "vendingMachine"
+date: 2024
 published: true
 labels:
-  - C++
-  - C
-  - terminal
-  - database management
+  - Javascript
 summary: "A banking system written in C++ that helps you create, print, find, and delete records."
 ---
 
@@ -19,37 +16,38 @@ summary: "A banking system written in C++ that helps you create, print, find, an
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-At UH Manoa, ICS 212: Program Structure requires two big projects. A banking project completed in C and C++, both written using terminal. This means learning how to compile, link, and run programs directly from the command line. This added an extra element of complexity to this project as learning how to use the terminal tends to have a learning curve. In 212, we also made use of Makefiles, which automated builds. This helped me to gain a better understanding of the software build process. 
+At Leeward Community College, ICS 211: Computer Science II has students complete a cumulative project that recreates a vending machine. It utilizes concepts that we have learned throughout the class such as binary trees and linking. The vending machine is organized so that each node holds one snack and references two other nodes. The vending machine allows you to add, find, and print snacks. Each snack consists of a barcode, name, number of calories, and price. The entire vending machine uses a binary search tree architecture combined with custom node and interface classes. 
 
-This command-line banking system allows users to manage their accounts. This includes the creation of new accounts, searching records, deleting records, and finding specific records. Some of the core features is its ability to save data to a file and load in data from a file when the program starts. The system stores the account records using dynamic data structure.  
-
-This project makes use of modular program design, meaning that the user interface and database are separate. It uses pointers and dynamic memory allocation. This is why the debug mode is helpful in addition to the release mode. In this project, I learned how to manually manage memory in C and C++. I also learned how to design a simple database system. In the future, security measures such as a password and a more developed user interface could improve it.
+The vending machine project helped me learn how to program to an interface and the distinction between what a node does and how it performs. Becuase this project included custom error handling, input validation, and encpasulation, I was able to build foundational computer science skills and practice real world system modeling.
 
 Here is some code that illustrates how I went about creating the user interface:
 
 ```cpp
-int main(int argc, char *argv[])
-{
-llist mylist((char*)"bank.txt");
-char userAnswer[50];
+//private class variables
+public class Snack {
+  private int barcode;
+  private int calories;
+  private double price;
+  private String name;
 
-    do
-    {
-        cout << "\nWelcome to the Bank. Please choose from one of the menu options.\n";
-        cout << "Menu Options:\n";
-        cout << "Add\n";
-        cout << "PrintAll\n";
-        cout << "Find\n";
-        cout << "Delete\n";
-        cout << "Quit\n\n";
-        cout << "Please type your selection: ";
+//snack(int ibarcode, int icalories, double dprice, String sname)
+  //constructor with same parameters as given by assignment
+  //has throw exception because set methods could have an exception due to invalid input
+  public Snack(int barcode, int calories, double price, String name) throws SnackException { 
+    this.setBarcode(barcode);
+    this.setName(name); 
+    this.setCalories(calories); 
+    this.setPrice(price); 
+  }
 
-        cin >> userAnswer;
-        cin.ignore();
-
-        #ifdef DEBUG
-        cout << "UserAnswer: " << userAnswer << "\n";
-        cout << "strlen: " << strlen(userAnswer) << "\n";
-        #endif
+  //set barcode and put constraints according to assignment to check for valid user input. 
+  //Throws snack exception and two print statements if it is not valid. This. statement to assign user input to barcode. 
+  public void setBarcode(int barcode) throws SnackException {
+    if (barcode < 10001 || barcode > 99999) { 
+      System.out.println("Barcode must be between 10001 and 99999.");
+      throw new SnackException("Not a valid barcode");
+    }
+    this.barcode = barcode; //used to change the class variable to inputed barcode 
+  }
 
 ```
