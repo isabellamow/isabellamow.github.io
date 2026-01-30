@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "vendingMachine"
+image: img/micromouse/Screenshot 2026-01-29 215055.png
+title: "Vending Machine"
 date: 2024
 published: true
 labels:
