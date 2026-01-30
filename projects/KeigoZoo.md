@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Screenshot 2026-01-29 214309.png
 title: "keigoZoo"
 date: 2025
 published: true
