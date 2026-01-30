@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2026-01-29 214309.png
-title: "keigoZoo"
+image: img/KeigoZoo/Screenshot 2026-01-29 214309.png
+title: "Keigo Zoo"
 date: 2025
 published: true
 labels:
