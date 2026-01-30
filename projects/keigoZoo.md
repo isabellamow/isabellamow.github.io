@@ -7,8 +7,9 @@ date: 2025
 published: true
 labels:
   - Vibe Coding
-  - Website Application 
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Website Application
+  - Japanese Second Language Learning
+summary: "Keigo Zoo; your fun and friendly guide to mastering Japanese polite language through interactive lessons and practice."
 ---
 
 <div class="text-center p-4">
@@ -17,22 +18,11 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+At UH Manoa, in SLS480E: Language Learning with Apps our final project was to design and create a application that would help second language learners. My app, Keigo Zoo focuses on Keigo, Japanese honorific speech. Keigo (honorific Japanese) is a culturally nuanced part of the Japanese language. The mastery of Keigo is essential for anyone who wants to interact respectfully and integrate into Japanese society. However, post-beginner Japanese second language learners have a difficult time learning Keigo through traditional means such as the classroom. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Keigo Zoo will adapt to the level of the post-beginner user by allowing options such as romaji, furigana, and definitions for kanji. By integrating explanations, hints, and constructive feedback during the quiz section, users can get real-time feedback that helps correct their misunderstandings, internalize cultural nuances, and improve their ability to use Keigo appropriately. 
 
-Here is some code that illustrates how we read values from the line sensors:
+Fully conceptualizing Keigo requires understanding Japanese social hierarchy, humility, politeness levels, and situational context (the “atmosphere”). Keigo Zoo helps learners to understand this cultural context by recreating situations in different environments and guide the users to understanding. It explains the cultural and linguistic context behind each form of speech. Keigo Zoo fills a critical gap in the Japanese-learning ecosystem outside of a formal classroom.  
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can learn more at the [Keigo Zoo](https://keigo-zoo.lovable.app).
