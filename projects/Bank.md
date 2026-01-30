@@ -25,14 +25,29 @@ This project makes use of modular program design, meaning that the user interfac
 Here is some code that illustrates how I went about creating the user interface:
 
 ```cpp
-byte ADCRead(byte ch)
+int main(int argc, char *argv[])
 {
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+llist mylist((char*)"bank.txt");
+char userAnswer[50];
+
+    do
+    {
+        cout << "\nWelcome to the Bank. Please choose from one of the menu options.\n";
+        cout << "Menu Options:\n";
+        cout << "Add\n";
+        cout << "PrintAll\n";
+        cout << "Find\n";
+        cout << "Delete\n";
+        cout << "Quit\n\n";
+        cout << "Please type your selection: ";
+
+        cin >> userAnswer;
+        cin.ignore();
+
+        #ifdef DEBUG
+        cout << "UserAnswer: " << userAnswer << "\n";
+        cout << "strlen: " << strlen(userAnswer) << "\n";
+        #endif
+
 ```
 
