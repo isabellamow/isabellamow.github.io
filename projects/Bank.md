@@ -13,11 +13,6 @@ labels:
 summary: "A banking system written in C++ that helps you create, print, find, and delete records."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 At UH Manoa, ICS 212: Program Structure requires two big projects. A banking project completed in C and C++, both written using terminal. This means learning how to compile, link, and run programs directly from the command line. This added an extra element of complexity to this project as learning how to use the terminal tends to have a learning curve. In 212, we also made use of Makefiles, which automated builds. This helped me to gain a better understanding of the software build process. 
 
