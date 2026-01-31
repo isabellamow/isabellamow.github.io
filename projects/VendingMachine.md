@@ -12,11 +12,6 @@ labels:
 summary: "A vending machine system written in Java that helps you add, find and print snacks."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 At Leeward Community College, ICS 211: Computer Science II has students complete a cumulative project that recreates a vending machine. It utilizes concepts that we have learned throughout the class such as binary trees and linking. The vending machine is organized so that each node holds one snack and references two other nodes. The vending machine allows you to add, find, and print snacks. Each snack consists of a barcode, name, number of calories, and price. The entire vending machine uses a binary search tree architecture combined with custom node and interface classes. 
 
