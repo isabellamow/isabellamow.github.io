@@ -34,7 +34,7 @@ I tried to embrace the wildcard character between square brackets (ie: %01[%]2%)
 How can I use the special character between my filter string?
 
 ```
-You can learn more at [StackOverflow: How to filter DataRow using % character]([https://keigo-zoo.lovable.app](https://stackoverflow.com/questions/79878096/how-to-filter-datarow-using-character)).
+You can learn more at [StackOverflow: How to filter DataRow using % character](https://stackoverflow.com/questions/79878096/how-to-filter-datarow-using-character).
 
 This user was very clear about their goal from the start. They provided an example and went on to concisely explain the problem that they were having. They cited what they have already tried, and what the results of that were. Then, they politely posed a question. Everything was grammatically correct, and did not involve any superfluous language. In the following thread, others replied to this question. Although not all of them answered the question, the poster was polite and remained steadfast in their manners and effort to solve the problem. Eventually someone posted an answer. The original question had an upvote on it, demonstrating that this may have been a question that was also valuable to another person. 
 
@@ -78,7 +78,7 @@ i am use like this...when i focus on textinput...only half textinput is visible 
 i try to multiple option like extraHeight and others...anyone help me
 
 ```
-You can learn more at [StackOverflow: react native keyboardAwareScrollView]([https://keigo-zoo.lovable.app](https://stackoverflow.com/questions/79879881/react-native-keyboardawarescrollview)).
+You can learn more at [StackOverflow: react native keyboardAwareScrollView](https://stackoverflow.com/questions/79879881/react-native-keyboardawarescrollview).
 
 The poster started by putting a chunk of code at the start of their post that was titled with lowercase letters. After they provided the code that they needed help with, they put two lines of text that described one alternative that they tried. This is not very helpful to a user who would want to potentially help this poster. They also did not have proper grammar or spacing. Although English may not be their first language, it would be helpful if they mention this in their post if this is the case. They end with a plea for help, which generally does not do much to elicit urgent responses from hackers. This question has not received any answers or replies yet. 
  
