@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Questionable Queries get Quibble and Answers from Quacks"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-29
 published: true
@@ -11,64 +11,78 @@ labels:
   - StackOverflow
 ---
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+What is a smart question? What is a dumb question? Some say that there are no “dumb” questions, but in the software engineering space, there are definitely questions that have room for improvement according to “How To Ask Questions The Smart Way” by Eric Steven Raymond. 
+
+Before artificial intelligence had the ability to answer questions with a reasonable amount of sense, many turned to spaces like Google and StackOverflow in order to have their inquiries answered. Here, experts in their respective fields would provide replies to a posted question in an attempt to help the poster. This is where asking “smart” questions came to be of significance. 
+
+A “smart” question is clear, concise, thoughtful, polite, grammatically correct, and shows effort. In “How To Ask Questions The Smart Way” Raymond details how to ask questions to hackers specifically. This is different from querying a “normal” person. Because it is technical problems that are being asked, it must fulfill certain requirements. A good example of a “smart” question is below. Let's examine what makes this question so good, and how they received an answer to their question within 2 days. 
 
 
 ```
-Q: python date of the previous month
+Q: How to filter DataRow using % character
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+I wish to filter DataRow values using a condition like this:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+dr.RowFilter = "CODE LIKE '%01%2%'"
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+This raises an error:
 
-I have solved this trouble in bash with:
+System.Data.EvaluationException: string pattern is not valid
 
-echo $(date -d"3 month ago" "+%G%m%d")
+I tried to embrace the wildcard character between square brackets (ie: %01[%]2%). It works, but returns an empty result set.
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-You can learn more at [Keigo Zoo](https://keigo-zoo.lovable.app).
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+How can I use the special character between my filter string?
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+You can learn more at [StackOverflow: How to filter DataRow using % character]([https://keigo-zoo.lovable.app](https://stackoverflow.com/questions/79878096/how-to-filter-datarow-using-character)).
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+This user was very clear about their goal from the start. They provided an example and went on to concisely explain the problem that they were having. They cited what they have already tried, and what the results of that were. Then, they politely posed a question. Everything was grammatically correct, and did not involve any superfluous language. In the following thread, others replied to this question. Although not all of them answered the question, the poster was polite and remained steadfast in their manners and effort to solve the problem. Eventually someone posted an answer. The original question had an upvote on it, demonstrating that this may have been a question that was also valuable to another person. 
 
-Like this:
+## Dumb questions deserve “smart” answers
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+Below is an example of a question that could be worded a little better. 
 
 ```
-You can learn more at [Keigo Zoo](https://keigo-zoo.lovable.app).
+Q: react native keyboardAwareScrollView
+
+<KeyboardAwareScrollView
+  style={{ flex: 1 }}
+  behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+  contentContainerStyle={{ flexGrow: 1}}
+  enableOnAndroid={true}
+  extraScrollHeight={getPlatForm() === 'android' ? 80 : 0}
+  enableAutomaticScroll={getPlatForm() === 'android'}
+  keyboardShouldPersistTaps="handled"
+  showsVerticalScrollIndicator={false}
+  keyboardOpeningTime={Platform.OS === 'ios' ? 0 : 250}
+>
+  <View style={pageStyles.inputMinusSpace}>
+                <TextInput
+                  label="Note"
+                  multiline
+                  mode="flat"
+                  style={[pageStyles.input,Styles.DefaultInput,pageStyles.customInput, { height: 80, textAlignVertical: 'top' }]}
+                  underlineColor={ColorsApp.BorderColor}
+                  activeUnderlineColor={ColorsApp.PRIMARY}
+                  textColor={ColorsApp.textColor}
+                  contentStyle={{ backgroundColor: 'transparent' }}
+                  value={managerNote}
+                  onChangeText={setManagerNote}
+                  scrollEnabled={false}
+                />
+              </View>
+</KeyboardAwareScrollView>
+
+i am use like this...when i focus on textinput...only half textinput is visible because this is multiline...
+
+i try to multiple option like extraHeight and others...anyone help me
+
+```
+You can learn more at [StackOverflow: react native keyboardAwareScrollView]([https://keigo-zoo.lovable.app](https://stackoverflow.com/questions/79879881/react-native-keyboardawarescrollview)).
+
+The poster started by putting a chunk of code at the start of their post that was titled with lowercase letters. After they provided the code that they needed help with, they put two lines of text that described one alternative that they tried. This is not very helpful to a user who would want to potentially help this poster. They also did not have proper grammar or spacing. Although English may not be their first language, it would be helpful if they mention this in their post if this is the case. They end with a plea for help, which generally does not do much to elicit urgent responses from hackers. 
  
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+As a result of this experience, I have learned what the “culture” of StackOverflow was like. I was amazed by the network of resources and people's willingness to answer questions for free. I believe that “How To Ask Questions The Smart Way” was a good read for anyone who is interested in posing a question in a similar space. I think that this was a good resource for even those who do not post to these types of forums, because it is similar to prompt engineering. The better the question is curated, the more artificial intelligence can help you. Artificial intelligence is on the rise, and provides instant answers to users. This may be why it has been growing in popularity, reducing the number of questions that are being posted to different threads and forums. 
