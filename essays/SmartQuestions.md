@@ -80,7 +80,7 @@ i try to multiple option like extraHeight and others...anyone help me
 ```
 You can learn more at [StackOverflow: react native keyboardAwareScrollView]([https://keigo-zoo.lovable.app](https://stackoverflow.com/questions/79879881/react-native-keyboardawarescrollview)).
 
-The poster started by putting a chunk of code at the start of their post that was titled with lowercase letters. After they provided the code that they needed help with, they put two lines of text that described one alternative that they tried. This is not very helpful to a user who would want to potentially help this poster. They also did not have proper grammar or spacing. Although English may not be their first language, it would be helpful if they mention this in their post if this is the case. They end with a plea for help, which generally does not do much to elicit urgent responses from hackers. 
+The poster started by putting a chunk of code at the start of their post that was titled with lowercase letters. After they provided the code that they needed help with, they put two lines of text that described one alternative that they tried. This is not very helpful to a user who would want to potentially help this poster. They also did not have proper grammar or spacing. Although English may not be their first language, it would be helpful if they mention this in their post if this is the case. They end with a plea for help, which generally does not do much to elicit urgent responses from hackers. This question has not received any answers or replies yet. 
  
 
 ## Conclusion
