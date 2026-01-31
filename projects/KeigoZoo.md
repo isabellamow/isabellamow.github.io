@@ -19,4 +19,4 @@ Keigo Zoo will adapt to the level of the post-beginner user by allowing options 
 Fully conceptualizing Keigo requires understanding Japanese social hierarchy, humility, politeness levels, and situational context (the “atmosphere”). Keigo Zoo helps learners to understand this cultural context by recreating situations in different environments and guide the users to understanding. It explains the cultural and linguistic context behind each form of speech. Keigo Zoo fills a critical gap in the Japanese-learning ecosystem outside of a formal classroom.  
 
 
-You can learn more at the [Keigo Zoo](https://keigo-zoo.lovable.app).
+You can learn more at [Keigo Zoo](https://keigo-zoo.lovable.app).
