@@ -1,20 +1,21 @@
 ---
 layout: essay
 type: essay
-title: "What is ICS 314: Software Engineering?"
+title: "The Syntax of a Language"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-29
+date: 2025-02-12
 published: true
 labels:
-  - Software Engineering
+  - Syntax 
+  - Language
 ---
 
-Software engineering is not just coding. Coding is a part of software engineering, but software engineering is not a part of coding. Software engineering goes beyond coding, ensuring that software is efficient, effective, reliable, cost effective, etc. There are also different parts of software engineering that require you to analyze code, and build the software in a thoughtful manner. This requires ensuring quality assurance, practicing requirements analysis, and keeping design and maintenance in mind.  
+So you want to learn a new language. Students usually start by learning vocabulary and work up to grammar. Once you have a word bank to pull from and a structure to place them in, voilà—you can convey a meaningful message.
 
-Software engineering initially interested me because last semester, I took a class that required me to build a web application. Because the course was only a semester long, we were not able to fully develop it. I wish to continue with my project, and software engineering is what I believe is the next step to doing so. I am interested in learning more about what software engineering entails, and what it would mean for me to use it to progress with my project vs. a career setting. I enjoyed building the web application, and software engineering will allow me to be more creative and knowledgeable about my own project. 
+Mastering a language and becoming fluent takes more work, but basic sentences can be strung together with the right recipes of simple vocabulary and grammar. The same can be said for coding languages, which work in a similar fashion.
 
-I was initially interested in taking ICS 314: Software Engineering at UH Manoa because of its unique format. Because of its practicality, my thought was that I would not only be learning about software engineering, I would be practicing it as a skill that could potentially be applied to the workforce. Because the final project for this class is also building a web application, I thought that it was the perfect opportunity to learn more about the backend, and how to connect data to a database and manage it. I believe that this course will help me improve my understanding of what is required of software engineers in the workforce, and what skills are required to achieve competency. 
+In language learning, syntax is the arrangement of words and phrases to create well-formed sentences in a language. In programming, syntax is the set of rules that define the structure and format of a language, dictating how symbols, punctuation, and words must be arranged to form valid instructions that a computer can understand and execute.
 
-By the end of this class, I hope to gain knowledge on applicable skills. This experience will help me gain skills not only in software engineering but in time management, resourcefulness, and artificial intelligence. In the future I would like to be able to fluently articulate what I wish to be displayed on my screen and execute that.
+VS Code acts as an interpreter and guide in this process. In my experience, it has been very convenient and beginner-friendly. With its built-in features such as IntelliSense and GitHub Copilot, creating initial scaffolding, debugging errors, and exploring unfamiliar syntax becomes much more streamlined and less intimidating. Rather than constantly searching through documentation, I can learn patterns directly through suggestions and feedback.
 
-
+ESLint functions more like a strict language teacher. It provides immediate feedback for stylistic and structural issues, not just errors that would crash the program. ESLint has made sure that my syntax is not only correct, but also consistent and readable. While this sometimes feels tedious, especially when a small formatting issue causes multiple warnings, it has forced me to be more intentional about how I write code instead of just whether it works.
