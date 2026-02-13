@@ -19,3 +19,5 @@ In language learning, syntax is the arrangement of words and phrases to create w
 VS Code acts as an interpreter and guide in this process. In my experience, it has been very convenient and beginner-friendly. With its built-in features such as IntelliSense and GitHub Copilot, creating initial scaffolding, debugging errors, and exploring unfamiliar syntax becomes much more streamlined and less intimidating. Rather than constantly searching through documentation, I can learn patterns directly through suggestions and feedback.
 
 ESLint functions more like a strict language teacher. It provides immediate feedback for stylistic and structural issues, not just errors that would crash the program. ESLint has made sure that my syntax is not only correct, but also consistent and readable. While this sometimes feels tedious, especially when a small formatting issue causes multiple warnings, it has forced me to be more intentional about how I write code instead of just whether it works.
+
+Contributed to by ChatGPT
