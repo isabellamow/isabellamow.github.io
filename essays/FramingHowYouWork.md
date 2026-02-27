@@ -6,9 +6,9 @@ title: "Framing How You Work"
 date: 2025-02-26
 published: true
 labels:
-  -Framework
-  -UI 
-  -Bootstrap5
+  - Framework
+  - UI 
+  - Bootstrap5
 ---
 
 When I first started learning web development, HTML and CSS felt straightforward. If I wanted a specific margin, font size, or layout, I could write it myself and see exactly what was happening. Then I was introduced to UI frameworks—specifically Bootstrap 5—and everything became more complicated. There were new class names, containers, rows, columns, breakpoints, utilities, and components. It felt like learning a new programming language on top of HTML and CSS.
