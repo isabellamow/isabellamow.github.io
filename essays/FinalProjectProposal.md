@@ -38,6 +38,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * API Maps
 * Ratings and Reviews of each space 
 
+
+
 Throughout the academic year at the University of Hawaiʻi at Mānoa, many students find themselves navigating schedules filled with long, inconvenient gaps between classes. While this time could be used productively, such as catching up on coursework or studying, the reality is that finding an appropriate place to focus can be surprisingly difficult. Study environments play a crucial role in productivity, and when students are left to wander campus without clear guidance, they may end up in spaces that are too noisy, overcrowded, poorly lit, or lacking essential resources like power outlets or seating. As a result, valuable time is often wasted, and the overall quality of studying suffers.
 
 To address this issue, our project proposes the development of a centralized website dedicated to helping students easily discover and evaluate study spaces across the UH Mānoa campus. This platform will serve as a comprehensive directory of locations, providing detailed information about each space’s amenities and environment. Key features will include whether a location is indoors or outdoors, availability of restrooms and electrical outlets, noise level, lighting quality, seating comfort, and the maximum capacity of the space. Additionally, the site will highlight nearby food options, such as cafés or vending machines, which are often an important consideration for students planning extended study sessions.
