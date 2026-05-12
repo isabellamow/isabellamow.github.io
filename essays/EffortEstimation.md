@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Framing How You Work"
+title: "Effort Estimation: Accuracy and Understanding"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-11
 published: true
