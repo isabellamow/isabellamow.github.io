@@ -12,7 +12,7 @@ labels:
   - Artificial Intelligence
 ---
 
-I. Introduction
+ # I. Introduction
 
 In recent years, artificial intelligence, or AI has made an impact in almost every space. This includes education, where its usefulness can quickly turn against students. Without the need to critically think about how to solve problems and troubleshoot, some have been left without the need to develop the skills that are required in the workplace. On the other hand, if used right, AI can be a great tool that can enhance learning and create a “better” student. 
 Because of the way that AI “learns” it has developed some ability to be able to complete software engineering tasks. In ICS 314, this ability was put to the test. For this class, I used a couple of different AI tools to help me complete WODs and other required class assignments. For example, ChatGPT, Gemini, Copilot, and Claude. 
@@ -20,7 +20,7 @@ Because of the way that AI “learns” it has developed some ability to be able
 
 II. Personal Experience with AI
 
-Experience WODs e.g. E18
+1. Experience WODs e.g. E18
 For experience WODs, I tended to gravitate towards not using AI when possible. Meaning, when I had the time to complete the WODs or practice the WODs more than once to figure out how to do it myself, I would. Other times, I would be short on time and would use AI to help me. 
 In-class Practice WODs
 For In-class Practice WODs, I used AI all but one time. I feel that because the environment for the practice WODs were the same as our In-class WODs, I felt pressured to be able to complete the WOD within the time frame given. Also, because I knew that I would be tested the next class period on a similar subject, if I was not able to get it using AI, I would have to change strategies and study a little more. 
