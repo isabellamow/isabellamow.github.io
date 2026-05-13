@@ -60,7 +60,7 @@ I have not directly asked AI to help me in documenting my code, just because I f
 I have asked AI for help many times with quality assurance. With there sometimes being tight deadlines in ICS 314, I tended to sometimes cut it a little close to the submission deadline and would ask AI to help me on things like ESLint errors so that I would be able to turn it in on time. For example, I would paste the area of code that I was having trouble with and I would explain my situation to give some context to the AI. Then, I would specify the error if there was one, and ask it to help me solve it and explain the solution.
 
 14. Other uses in ICS 314 not listed
-    N/A
+N/A
 
 
 
