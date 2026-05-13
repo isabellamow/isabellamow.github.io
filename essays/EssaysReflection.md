@@ -21,32 +21,45 @@ Because of the way that AI “learns” it has developed some ability to be able
 II. Personal Experience with AI
 
 1. Experience WODs e.g. E18
-For experience WODs, I tended to gravitate towards not using AI when possible. Meaning, when I had the time to complete the WODs or practice the WODs more than once to figure out how to do it myself, I would. Other times, I would be short on time and would use AI to help me. 
-In-class Practice WODs
-For In-class Practice WODs, I used AI all but one time. I feel that because the environment for the practice WODs were the same as our In-class WODs, I felt pressured to be able to complete the WOD within the time frame given. Also, because I knew that I would be tested the next class period on a similar subject, if I was not able to get it using AI, I would have to change strategies and study a little more. 
-In-class WODs
+For experience WODs, I tended to gravitate towards not using AI when possible. Meaning, when I had the time to complete the WODs or practice the WODs more than once to figure out how to do it myself, I would. Other times, I would be short on time and would use AI to help me.
+
+2. In-class Practice WODs
+For In-class Practice WODs, I used AI all but one time. I feel that because the environment for the practice WODs were the same as our In-class WODs, I felt pressured to be able to complete the WOD within the time frame given. Also, because I knew that I would be tested the next class period on a similar subject, if I was not able to get it using AI, I would have to change strategies and study a little more.
+
+3. In-class WODs
 For every single in-class WOD I used AI. I do not think that I could have completed any of the WODs within the time frame given without AI. The use of AI was integral to me in completing the in-class WODs. At this point, I was not learning anything from the WODs, and was practicing prompt engineering instead.
-Essays
+
+4. Essays
 Because I enjoy writing I did not feel like it was necessary for me to use any AI models to help me with my essays. There was maybe one time that I knew that I was not going to be able to turn in the essay on time if I did not get some assistance, and in that case I did use AI to help me.
-Final project
-For my team's final– Manoa Study Spaces– we agreed that we would minimize the use of AI as much as possible and let our teammates know when we would do something like vibecode a feature. I am unsure if any of my other teammates ended up using AI to help them, but I did towards the end. There were a lot of features and errors that would come up that I did not know how to implement or solve. Because of the timeframe that we were given for the class, I resorted to vibecoding. 
-Learning a concept / tutorial
-I encourage and often use AI to help me learn a new concept that I do not understand. Because AI is able to cater towards your preferences and the way that you learn, it can be a very helpful tool. I think that at the current level that AI is at, it should not be providing tutorials just yet. It can be used for supplementary help, but I would not entirely trust it to show me a tutorial on how to do something difficult or challenging for a computer to understand. 
-Answering a question in class or in Discord
+
+5. Final project
+For my team's final– Manoa Study Spaces– we agreed that we would minimize the use of AI as much as possible and let our teammates know when we would do something like vibecode a feature. I am unsure if any of my other teammates ended up using AI to help them, but I did towards the end. There were a lot of features and errors that would come up that I did not know how to implement or solve. Because of the timeframe that we were given for the class, I resorted to vibecoding.
+
+6. Learning a concept / tutorial
+I encourage and often use AI to help me learn a new concept that I do not understand. Because AI is able to cater towards your preferences and the way that you learn, it can be a very helpful tool. I think that at the current level that AI is at, it should not be providing tutorials just yet. It can be used for supplementary help, but I would not entirely trust it to show me a tutorial on how to do something difficult or challenging for a computer to understand.
+
+7. Answering a question in class or in Discord
 I personally have not had to use AI to answer a question in class or in Discord. If there was a difficult question or something that I needed help answering, I may have turned to AI, but I have not so far.
-Asking or answering a smart-question
-I have used AI to answer some of the questions that I had about ICS314. These questions were sometimes similar to the ones that were asked in the smart-questions chat. I ended up asking for help from AI because I was either still confused, or needed to seek clarification. 
-Coding example e.g. “give an example of using Underscore .pluck”
-I have asked AI to help me generate code examples. I think that this is a very productive way of using AI because it is showing you examples and prompting you to do the work instead of just giving you the answer. 
-Explaining code
-AI is sometimes not the best at explaining code that another human wrote because it is not able to fully understand context without being told. Also, humans are not perfect and the way that they wrote their code may not make sense to a computer. So, although I have asked it to explain the code to me, in some instances I do not think that it is fully right. It may come up with weird justifications or come up with new code entirely. 
-Writing code
-I have definitely asked AI to write a lot of code for the in class WODs. Especially for 314, I would find this class extremely challenging if I were not able to do this. I would not be able to complete many of the assignments on time without it. 
-Documenting code
-I have not directly asked AI to help me in documenting my code, just because I feel that if I document it myself, I will help solidify my own understanding. Also, sometimes I like to add my own explanations to help me recall my process. 
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-I have asked AI for help many times with quality assurance. With there sometimes being tight deadlines in ICS 314, I tended to sometimes cut it a little close to the submission deadline and would ask AI to help me on things like ESLint errors so that I would be able to turn it in on time. For example, I would paste the area of code that I was having trouble with and I would explain my situation to give some context to the AI. Then, I would specify the error if there was one, and ask it to help me solve it and explain the solution. 
-Other uses in ICS 314 not listed
+
+8. Asking or answering a smart-question
+I have used AI to answer some of the questions that I had about ICS314. These questions were sometimes similar to the ones that were asked in the smart-questions chat. I ended up asking for help from AI because I was either still confused, or needed to seek clarification.
+
+9. Coding example e.g. “give an example of using Underscore .pluck”
+I have asked AI to help me generate code examples. I think that this is a very productive way of using AI because it is showing you examples and prompting you to do the work instead of just giving you the answer.
+
+10. Explaining code
+AI is sometimes not the best at explaining code that another human wrote because it is not able to fully understand context without being told. Also, humans are not perfect and the way that they wrote their code may not make sense to a computer. So, although I have asked it to explain the code to me, in some instances I do not think that it is fully right. It may come up with weird justifications or come up with new code entirely.
+
+11. Writing code
+I have definitely asked AI to write a lot of code for the in class WODs. Especially for 314, I would find this class extremely challenging if I were not able to do this. I would not be able to complete many of the assignments on time without it.
+
+12. Documenting code
+I have not directly asked AI to help me in documenting my code, just because I feel that if I document it myself, I will help solidify my own understanding. Also, sometimes I like to add my own explanations to help me recall my process.
+
+13. Quality assurance e.g. “What’s wrong with this code 'code here'” or “Fix the ESLint errors in 'code here'”
+I have asked AI for help many times with quality assurance. With there sometimes being tight deadlines in ICS 314, I tended to sometimes cut it a little close to the submission deadline and would ask AI to help me on things like ESLint errors so that I would be able to turn it in on time. For example, I would paste the area of code that I was having trouble with and I would explain my situation to give some context to the AI. Then, I would specify the error if there was one, and ask it to help me solve it and explain the solution.
+
+14. Other uses in ICS 314 not listed
 N/A
 
 
