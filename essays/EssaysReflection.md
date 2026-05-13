@@ -8,6 +8,8 @@ published: true
 labels:
   - Software Engineering
   - ICS 314
+  - Reflection
+  - Artificial Intelligence
 ---
 
 I. Introduction
