@@ -27,7 +27,7 @@ One thing that I learned from this experience is how to work efficiently as a gr
 
 
 
-<img class="img-fluid" src="../projects/Screenshot 2026-05-15 234912.png>
+<img class="img-fluid" src="../projects/Screenshot 2026-05-15 234912.png">
 
 
 
