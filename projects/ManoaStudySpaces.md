@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2026-05-15 230548.png
+image: projects/Screenshot 2026-05-15 230548.png
 title: "Manoa Study Spaces"
 date: 2026
 published: true
