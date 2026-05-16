@@ -28,7 +28,7 @@ One thing that I learned from this experience is how to work efficiently as a gr
 <img class="img-fluid" src="../projects/Screenshot 2026-05-15 144656.png">
 
 
-<img class="img-fluid" src="../projects/Screenshot 2026-05-15 144656.png">
+<img class="img-fluid" src="../projects/Screenshot 2026-05-15 234547.png">
 
 
 You can learn more at [Manoa Study Spaces github.io](https://manoa-study-spaces.github.io/).
