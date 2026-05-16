@@ -25,7 +25,7 @@ What I learned:
 One thing that I learned from this experience is how to work efficiently as a group. Github applications such as issues make it easy to work asynchronously as a group. But, there still has to be a massive amount of communication and understanding for a project to take place successfully. At times, I felt that I was behind on my issues or I was not communicating enough. Because we did not often meet in person, each team member had to be proative about assigning themselves work and communicating with the group. 
 
 
-<img class="img-fluid" src="../projects/Screenshot 2026-05-15 144656.png">
+<img class="img-fluid" src="../projects/Screenshot 2026-05-15 234912.png>
 
 
 <img class="img-fluid" src="../projects/Screenshot 2026-05-15 234547.png">
