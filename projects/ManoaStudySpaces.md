@@ -12,6 +12,8 @@ labels:
 summary: "Manoa Study Spaces helps students of UHM to find their perfect study spaces! Meet new study buddies and people with similar interests."
 ---
 
+
+
 Project Overview: 
 Problem: Throughout the school year, students may be stuck with a giant gap of free time between classes. In order to pass the time, many choose to study for their classes. However, studying can be a great challenge for anyone when done solo or in the wrong spot.
 
@@ -23,4 +25,5 @@ What I learned:
 One thing that I learned from this experience is how to work efficiently as a group. Github applications such as issues make it easy to work asynchronously as a group. But, there still has to be a massive amount of communication and understanding for a project to take place successfully. At times, I felt that I was behind on my issues or I was not communicating enough. Because we did not often meet in person, each team member had to be proative about assigning themselves work and communicating with the group. 
 
 You can learn more at [Manoa Study Spaces github.io](https://manoa-study-spaces.github.io/).
+
 Want to see the source code? Take a look [here](https://github.com/manoa-study-spaces/manoa-study-spaces.github.io).
