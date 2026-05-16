@@ -13,7 +13,7 @@ summary: "Keigo Zoo; your fun and friendly guide to mastering Japanese polite la
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../Users\isabe\OneDrive\Pictures\Screenshots\Screenshot 2026-05-15 144656.png
 </div>
 
 At UH Manoa, in SLS480E: Language Learning with Apps our final project was to design and create a application that would help second language learners. My app, Keigo Zoo focuses on Keigo, Japanese honorific speech. Keigo (honorific Japanese) is a culturally nuanced part of the Japanese language. The mastery of Keigo is essential for anyone who wants to interact respectfully and integrate into Japanese society. However, post-beginner Japanese second language learners have a difficult time learning Keigo through traditional means such as the classroom. 
