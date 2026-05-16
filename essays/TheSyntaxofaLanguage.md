@@ -4,7 +4,7 @@ type: essay
 title: "The Syntax of a Language"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-12
-published: true
+published: false
 labels:
   - Syntax 
   - Language
