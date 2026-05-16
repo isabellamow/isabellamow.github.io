@@ -4,7 +4,7 @@ type: essay
 title: "Framing How You Work"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-26
-published: true
+published: false
 labels:
   - Framework
   - UI 
