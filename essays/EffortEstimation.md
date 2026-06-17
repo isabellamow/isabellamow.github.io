@@ -4,7 +4,7 @@ type: essay
 title: "Effort Estimation: Accuracy and Understanding"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-11
-published: true
+published: false
 labels:
   - Manoa Study Spaces 
   - Effort Estimation 
