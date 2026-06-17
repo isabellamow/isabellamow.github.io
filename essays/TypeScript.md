@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript vs TypeScript: Who has the better Script?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
-published: true
+published: false
 labels:
   - JavaScript 
   - TypeScript 
