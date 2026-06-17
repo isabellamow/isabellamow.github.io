@@ -4,7 +4,7 @@ type: essay
 title: "How AI impacted ICS314 and SE experiences"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-11
-published: true
+published: false
 labels:
   - Software Engineering
   - ICS 314
