@@ -4,7 +4,7 @@ type: essay
 title: "How Software Engineering Concepts Apply to Daily Life"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-15
-published: true
+published: false
 labels:
   - Ethics in Software Engineering 
   - Issue Driven Project Management
